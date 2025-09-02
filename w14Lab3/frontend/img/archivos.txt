@@ -1,0 +1,10 @@
+./bh_cop.jpg
+./top_gun.jpeg
+./archivos.txt
+./poster404.jpg
+./et.jpg
+./rofla.jpeg
+./batman1989.jpeg
+./bttf.jpeg
+./sw_esb.jpeg
+./sw_rotj.jpg

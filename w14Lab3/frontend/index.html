@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Selector de Películas</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Selecciona una Película</h1>
+
+    <select id="movie-select">
+        <option value="">-- Selecciona una película --</option>
+    </select>
+
+    <div id="movie-card" class="hidden">
+      <img id="movie-poster" src="" alt="Poster de la película" />
+      <div class="movie-info">
+        <h2 id="movie-title">Título de la Película</h2>
+        <p><strong>Año Estreno:</strong> <span id="movie-year"></span></p>
+        <p><strong>Box Office:</strong> <span id="movie-boxoffice"></span></p>
+        <p><strong>Género:</strong> <span id="movie-genre"></span></p>
+      </div>
+    </div>
+  </div>
+  <script src="main.js"></script>
+</body>
+</html>
